@@ -19,8 +19,8 @@ namespace testOpenCVSharpDnn
         private const string cfgURI = "https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg";
         private const string weightsFile = "yolov3.weights";
         private const string weightsURI = "https://pjreddie.com/media/files/yolov3.weights";
-        private const string labelsFile = "imagenet.shortnames.list";
-        private const string labelsURI = "https://raw.githubusercontent.com/pjreddie/darknet/master/data/imagenet.shortnames.list";
+        private const string labelsFile = "coco.names";
+        private const string labelsURI = "https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names";
         private const string sampleImage = "kite.jpg";
         private const string sampleImageURI = "https://github.com/pjreddie/darknet/raw/master/data/kite.jpg";
         private string[] Labels;
