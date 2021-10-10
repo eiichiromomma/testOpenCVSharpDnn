@@ -2,7 +2,7 @@
 
 ![](https://github.com/eiichiromomma/testOpenCVSharpDnn/blob/master/testOpenCVSharpDnn.png)
 
-[OpenCvSharp](https://github.com/shimat/opencvsharp)でとWindows FormsアプリケーションでDnnモジュールを使う例。
+[OpenCvSharp](https://github.com/shimat/opencvsharp)とWindows FormsアプリケーションでDnnモジュールを使う例。
 
 * [HttpClientProgressExtensions](https://gist.github.com/dalexsoto/9fd3c5bdbe9f61a717d47c5843384d11)
 * [OpenCvSharp Dnn module with Yolo2(OpenCVSharpでのDnnモジュールの使い方)](https://github.com/died/OpenCvSharpDnnYolo)
