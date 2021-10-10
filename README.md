@@ -7,6 +7,8 @@
 * [HttpClientProgressExtensions](https://gist.github.com/dalexsoto/9fd3c5bdbe9f61a717d47c5843384d11)
 * [OpenCvSharp Dnn module with Yolo2(OpenCVSharpでのDnnモジュールの使い方)](https://github.com/died/OpenCvSharpDnnYolo)
 
+**GPUを使いたい人は[こっちの記事](https://github.com/eiichiromomma/CVMLAB/wiki/OpenCVSharp-GPU)参照**
+
 ## Nuget
 
 プロジェクトを作ってNugetパッケージからOpenCvSharp4.WindowsとOpenCvSharp4.runtime.winを入れてる。たぶんOpenCvSharp4とOpenCvSharp4.runtime.winが正しいような気もするが気にしない。
